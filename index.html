@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typing Speed Test</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Typing Speed Test</h1>
+    <p id="text-to-type">
+      Andhra university stands as a symbol of academic excellence,offering high-quality education and opportunities for holistic development.Its rich history,cutting-edge research,and vibrant campus life make it oneof the most sought-after universities in india. 
+    </p>
+    <textarea id="input-box" placeholder="Start typing here..." disabled></textarea>
+    <div class="controls">
+      <button id="start-btn">Start Test</button>
+      <p id="timer">Time: 60s</p>
+    </div>
+    <div id="results" hidden>
+      <p>Words per minute (WPM): <span id="wpm"></span></p>
+      <p>Accuracy: <span id="accuracy"></span>%</p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
