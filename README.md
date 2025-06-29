@@ -23,3 +23,8 @@ Typing-Speed-Test/
 ├── index.html # Main HTML page
 ├── styles.css # Styling file
 └── script.js # Core JavaScript logic
+
+## Screenhots
+![image](https://github.com/user-attachments/assets/c59664b5-fb2b-4740-be57-720cf2d8699b)
+![image](https://github.com/user-attachments/assets/4a6974ab-0239-4885-b8f3-3fc73309e1c7)
+
